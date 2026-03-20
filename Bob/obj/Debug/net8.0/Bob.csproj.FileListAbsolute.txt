@@ -1,0 +1,14 @@
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\bin\Debug\net8.0\Bob.exe
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\bin\Debug\net8.0\Bob.deps.json
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\bin\Debug\net8.0\Bob.runtimeconfig.json
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\bin\Debug\net8.0\Bob.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\bin\Debug\net8.0\Bob.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.AssemblyInfoInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.AssemblyInfo.cs
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.csproj.CoreCompileInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\refint\Bob.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\Bob.genruntimeconfig.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Bob\obj\Debug\net8.0\ref\Bob.dll

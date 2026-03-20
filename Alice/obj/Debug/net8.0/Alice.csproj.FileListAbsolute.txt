@@ -1,0 +1,14 @@
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\bin\Debug\net8.0\Alice.exe
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\bin\Debug\net8.0\Alice.deps.json
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\bin\Debug\net8.0\Alice.runtimeconfig.json
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\bin\Debug\net8.0\Alice.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\bin\Debug\net8.0\Alice.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.AssemblyInfoInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.AssemblyInfo.cs
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.csproj.CoreCompileInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\refint\Alice.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\Alice.genruntimeconfig.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\Alice\obj\Debug\net8.0\ref\Alice.dll

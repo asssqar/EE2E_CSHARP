@@ -1,0 +1,17 @@
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\KeyGen.exe
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\KeyGen.deps.json
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\KeyGen.runtimeconfig.json
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\KeyGen.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\KeyGen.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.csproj.AssemblyReference.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.AssemblyInfoInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.AssemblyInfo.cs
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.csproj.CoreCompileInputs.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.csproj.Up2Date
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\refint\KeyGen.dll
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.pdb
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\KeyGen.genruntimeconfig.cache
+C:\Users\asqar\Desktop\E2EE_CSharp\KeyGen\obj\Debug\net8.0\ref\KeyGen.dll
